@@ -1,3 +1,4 @@
+/*Michał Zarzycki,Patryk Nowicki, Krystian Cieślak 2019*/
 #include <stdlib.h>
 
 #define X_STEP_PIN         54
