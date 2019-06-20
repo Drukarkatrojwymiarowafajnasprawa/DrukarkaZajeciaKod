@@ -1,3 +1,4 @@
+/*Michał Zarzycki,Patryk Nowicki, Krystian Cieślak 2019*/
 #include <LiquidCrystal.h>
 
 #define TEMP_0_PIN 13
