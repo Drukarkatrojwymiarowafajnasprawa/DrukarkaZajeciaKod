@@ -1,3 +1,6 @@
+    
+/*Michał Zarzycki,Patryk Nowicki, Krystian Cieślak 2019*/
+
 starea = round(sin(0)*400);
 stareb = round(sin(0+2*pi/3)*400);
 starec = round(sin(0+4*pi/3)*400);
